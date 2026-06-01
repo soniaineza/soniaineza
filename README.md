@@ -1,17 +1,111 @@
-# 💫 About Me:
-i'm working on coding
+# 👋 Hi, I'm Sonia Ineza
 
+### Software Developer from Rwanda 🇷🇼
 
-## 🌐 Socials:
- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/soniaineza)
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soniaineza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soniaineza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soniaineza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy building software that solves real-world problems and creates meaningful impact. My interests include web development, digital transformation, and creating products that help organizations operate more efficiently.
+
+Currently focused on building solutions for schools, businesses, and communities through modern web technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soniaineza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Current Focus
+
+* Building **ShejaCards**, a digital student card platform for schools
+* Contributing to **GovFlow Africa**
+* Improving my skills in full-stack development
+* Creating scalable and user-friendly digital products
+
+---
+
+## 💼 Featured Work
+
+### 🎓 ShejaCards
+
+A digital student card platform designed to help schools modernize student identification and management.
+
+**Key Areas**
+
+* Digital student IDs
+* School branding and customization
+* Secure student information management
+* Modern school technology solutions
+
+### 🌍 GovFlow Africa
+
+Contributing to the development of digital solutions aimed at improving organizational and operational workflows.
+
+**Areas of Contribution**
+
+* Web development
+* User experience improvements
+* System implementation
+* Platform enhancements
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Bootstrap
+
+### Backend
+
+* Laravel
+* Python
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Tools & Platforms
+
+* Git & GitHub
+* Vercel
+* Netlify
+* Figma
+* Apache
+* GitHub Actions
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React patterns
+* Modern backend architecture
+* Cloud deployment
+* Software scalability
+* Product development
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [inezasonia124@gmail.com](mailto:inezasonia124@gmail.com)
+
+💻 CodePen: https://codepen.io/soniaineza
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=soniaineza\&theme=dark\&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=soniaineza\&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soniaineza\&theme=dark\&layout=compact)
+
+---
+
+### 💭 A Few Things About Me
+
+* I enjoy building products from idea to deployment.
+* I like solving practical problems with technology.
+* I'm always learning and improving my craft as a developer.
+
+> Building technology that people can actually use.
